@@ -312,7 +312,7 @@ export default function App() {
       <div className="container">
         <header className="fade-1">
           <div className="header-top">
-            <h1 className="name">Ola <em>devajibola</em></h1>
+            <h1 className="name">Ajibola <em>devajibola</em></h1>
             <div className="status-pill">
               <div className="status-dot" />
               Open to opportunities
@@ -338,7 +338,7 @@ export default function App() {
           <div className="section-label">About</div>
           <div className="about-text">
             <p>
-              I'm a self-taught developer based in Lagos, building at the intersection of AI and Web3.
+              I'm Ajibola, a self-taught developer based in Lagos, building at the intersection of AI and Web3.
               I started with smart contracts on Arc and have been shipping in public ever since.
             </p>
             <p>
@@ -405,7 +405,7 @@ export default function App() {
         </section>
 
         <footer>
-          <span>Ola · @devajibola</span>
+          <span>Ajibola · @devajibola</span>
           <span>Lagos, Nigeria · {new Date().getFullYear()}</span>
         </footer>
       </div>
